@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laster</h1>
 <h3 align="center">i am an software engineer and i love coding (:</h3>
 
-  <img align="right" alt="Coding" width="400" src="	https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif">
+  <img align="right" alt="Coding" width="400" src="https://rishavchanda.io/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlaster&label=Profile%20views&color=0e75b6&style=flat" alt="devlaster" /> </p>
 
