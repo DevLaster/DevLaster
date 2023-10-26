@@ -10,6 +10,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlaster&label=Profile%20views&color=0e75b6&style=flat" alt="devlaster" /> </p>
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Laster = {
+  Introduce: "Hi" | "Him",
+  Code: [Javascript,HTML, CSS,Python,],
+  Tools: [VsCode, coffee, Node, Book, Computer, Code, Brain],
+  Favorite: ["Code", "Computers", "Google"],
+  MyInfo: {
+                        Name: "Laster",
+                        Age: 18,
+                        Job: "Studying"
+                      },
+ MyPoint: "To work in google (:"
+}
+console.log(Laster)
+
+```
+
 
 <p align="left"> <a href="https://twitter.com/lasterfor3ver" target="blank"><img src="https://img.shields.io/twitter/follow/lasterfor3ver?logo=twitter&style=for-the-badge" alt="lasterfor3ver" /></a> </p>
 
