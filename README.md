@@ -24,7 +24,7 @@ const Laster = {
       Job: "Studying"
 },
 
-MyPoint: "To work in google (:"
+MyPoint = "To work in google (:"
 }
 
 console.log(Laster)
