@@ -19,14 +19,16 @@ const Laster = {
   Tools: [VsCode, coffee, Node, Book, Computer, Code, Brain],
   Favorite: ["Code", "Computers", "Google"],
   MyInfo: {
-                        Name: "Laster",
-                        Age: 18,
-                        Job: "Studying"
-                      },
+      Name: "Laster",
+      Age: 18,
+      Job: "Studying"
+},
+
  MyPoint: "To work in google (:"
 }
 console.log(Laster)
 
+alert("Love Code")
 ```
 
 
