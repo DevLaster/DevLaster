@@ -25,6 +25,7 @@ const Laster = {
 },
 
 MyPoint: "To work in google (:"
+}
 
 console.log(Laster)
 
