@@ -48,7 +48,6 @@ alert(MyPoint)
 <p align="left">
 <a href="https://twitter.com/lasterfor3ver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lasterfor3ver" height="30" width="40" /></a>
 <a href="https://instagram.com/lasterfor3ver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lasterfor3ver" height="30" width="40" /></a>
-
 <a href="https://discord.gg/https://discord.gg/tPdPWyyT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tPdPWyyT" height="30" width="40" /></a>
 
 
