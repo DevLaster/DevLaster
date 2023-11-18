@@ -15,8 +15,8 @@
 ```javascript
 const Laster = {
   Introduce: "Hi" | "Him",
-  Code: [Javascript,HTML, CSS,Python,],
-  Tools: [VsCode, coffee, Node, Book, Computer, Code, Brain],
+  Code: ["Javascript","HTML", "CSS","Python"],
+  Tools: ["VsCode", "coffee", "Node", "Computer", "Code", "Brain"],
   Favorite: ["Code", "Computers", "Google"],
   MyInfo: {
       Name: "Laster",
