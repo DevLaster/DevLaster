@@ -16,7 +16,7 @@
 const Laster = {
   Introduce: "Hi" | "Him",
   Code: ["Javascript","HTML", "CSS","Python"],
-  Tools: ["VsCode", "coffee", "Node", "Computer", "Code", "Brain"],
+  Tools: ["VsCode", "coffee", "Computer", "Code", "Brain"],
   Favorite: ["Code", "Computers", "Google"],
   MyInfo: {
       Name: "Laster",
