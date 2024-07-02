@@ -14,7 +14,7 @@
 
 ```javascript
 const Laster = {
-  Introduce: "Hi" | "Him",
+  Introduce: "He" | "Him",
   Code: ["Javascript","HTML", "CSS","Python"],
   Tools: ["VsCode", "coffee", "Computer", "Code", "Brain"],
   Favorite: ["Code", "Computers", "Google"],
